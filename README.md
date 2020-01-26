@@ -1,6 +1,6 @@
 # ny-dental-Qgis
 
-### Tuto:
+### Tuto Qgis:
 
 QGIS 3 for Absolute Beginners
 - https://www.youtube.com/watch?v=kCnNWyl9qSE
@@ -73,3 +73,12 @@ Accessibility to health care facilities in Montreal Island: an application of re
 
 
 
+# China
+
+### Real time Coronavirus Johns Hopkins (ESRI)
+
+- https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0BZmphaD3ZcXPTD2EVaPyqjeI88DYngq1cQM6W0LouHhI5KagvAuk_-CY#/bda7594740fd40299423467b48e9ecf6
+
+- https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+
+- https://tapiquen-sig.jimdofree.com/english-version/free-downloads/china/
