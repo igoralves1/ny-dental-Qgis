@@ -82,3 +82,5 @@ Accessibility to health care facilities in Montreal Island: an application of re
 - https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 
 - https://tapiquen-sig.jimdofree.com/english-version/free-downloads/china/
+
+- https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0
