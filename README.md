@@ -43,6 +43,10 @@ All About Qgis Attribute Table#4#Attribute table
 QGIS Cloud: Creating Simple Online Maps
 - https://www.youtube.com/watch?v=mKF5JuKRZp4
 
+Expressions
+ "NAME_2" ='Wuhan'
+
+
 # Papers
 
 International Journal of Health Geographics
@@ -90,3 +94,19 @@ Accessibility to health care facilities in Montreal Island: an application of re
 - https://tapiquen-sig.jimdofree.com/english-version/free-downloads/china/
 
 - https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0
+
+
+
+
+
+
+
+
+
+
+### Insatll vcsode
+
+Download the file
+- https://code.visualstudio.com/Download
+
+- sudo dpkg -i <downloaded file>
