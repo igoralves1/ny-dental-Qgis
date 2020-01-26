@@ -37,6 +37,12 @@ QGIS: Attribute Tables and Selecting Features
 All About Qgis Attribute Table#4#Attribute table
 - https://www.youtube.com/watch?v=coEI3-PXRkI&t=188s
 
+2018 - QGIS Web Client 2
+- https://www.youtube.com/watch?v=eqA5vYIRiyM
+
+QGIS Cloud: Creating Simple Online Maps
+- https://www.youtube.com/watch?v=mKF5JuKRZp4
+
 # Papers
 
 International Journal of Health Geographics
