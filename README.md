@@ -47,6 +47,9 @@ Expressions
  "NAME_2" ='Wuhan'
 
 
+Scraping With Node.js & Cheerio
+- https://www.youtube.com/watch?v=LoziivfAAjE
+
 # Papers
 
 International Journal of Health Geographics
@@ -95,7 +98,7 @@ Accessibility to health care facilities in Montreal Island: an application of re
 
 - https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0
 
-
+- https://github.com/globalcitizen/2019-wuhan-coronavirus-data?fbclid=IwAR1FRxKh5eGPQmZdLxldTElwBN-sesT5bkU5hYbn1EwsUx-glnT9NQuqmi0
 
 
 
@@ -110,3 +113,12 @@ Download the file
 - https://code.visualstudio.com/Download
 
 - sudo dpkg -i <downloaded file>
+
+- https://github.com/igoralves1/cheerio
+
+- https://gist.github.com/bradtraversy/7b68f19b0c502f1fbd0aa9bc4cfe793d#file-node_cheerio_scraping-js
+
+- https://www.youtube.com/watch?v=LoziivfAAjE&t=182s
+
+- https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/?fbclid=IwAR2NgcE9QF99oYCCY0EdgDebmxKJpKUh9R_VhOzX9_vYK1lR5mxnaHbZoqM
+
