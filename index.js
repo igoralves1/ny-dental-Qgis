@@ -6,7 +6,7 @@ const writeStream = fs.createWriteStream('post.csv');
 // Write Headers
 writeStream.write(`Title,Link,Date \n`);
 
-request('https://3g.dxy.cn/newh5/view/pneumonia', (error, response, html) => {
+request('https://www.uol.com.br/', (error, response, html) => {
     
     
   if (!error && response.statusCode == 200) {

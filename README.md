@@ -100,7 +100,7 @@ Accessibility to health care facilities in Montreal Island: an application of re
 
 - https://github.com/globalcitizen/2019-wuhan-coronavirus-data?fbclid=IwAR1FRxKh5eGPQmZdLxldTElwBN-sesT5bkU5hYbn1EwsUx-glnT9NQuqmi0
 
-
+- https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 
 
 
