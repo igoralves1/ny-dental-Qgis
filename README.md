@@ -1,4 +1,7 @@
-# ny-dental-Qgis
+# New York - dental-Qgis .shp to be used with oral diseases databases for geostatistcs analysis.
+- Open source GIS software: [QGIS](https://www.qgis.org/en/site/)
+> This project was orininally created to support geostatistics analysis of special oral services across New York State to be used in a scientific paper.
+Later on it was decided to open the tool to be used by anyone.
 
 ### Tuto Qgis:
 
